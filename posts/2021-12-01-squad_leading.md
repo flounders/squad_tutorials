@@ -1,3 +1,6 @@
+---
+title: Squad Leading
+---
 
 # Basic Responsibilities
 

@@ -1,3 +1,7 @@
+---
+title: First Steps
+---
+
 You've finished the in game tutorial and feel ready to join a live match.
 There is a lot that didn't get covered in the tutorial. Like how to use the
 different roles, working with your squad and a number of game mechanics. This is
