@@ -69,11 +69,23 @@ different sides of a point, or other team tactics. In this case the FTLs can hel
 the burden of squad leading off of you. This is not likely something you can do with random
 players yet, but maybe with more experience in the community it can be.
 
-Now to assign people to fireteams and to promote specific leaders you can do this through the
-deployment screen or the command window. The command window will be the preferred option.
-Either way you can right click on a players name and there will be an option to "assign to
-fireteam" or "promote to". Use "assign to" for putting players in a fireteam and use "promote
-to" for designating FTLs.
+Now to assign people to fireteams and to promote specific leaders you can do
+this through the deployment screen or the command window. The command window [(see
+image 1)](#image1) will be the preferred option. You can reach the command window by
+pressing caps lock. Either way you can right click [(image 2)](#image2) on a players name
+and there will be an option to "assign to fireteam" or "promote to" [(image
+3)](#image3).
+Use "assign to" for putting players in a fireteam and use "promote to" for
+designating FTLs.
+
+[![image 1][image1]][image1]
+[![image 2][image2]][image2]
+[![image 3][image3]][image3]
+
+[image1]: ../images/command_window.png "picture of command window" {#image1}
+[image2]: ../images/command_player_menu.png "picture of player action menu"
+{#image2}
+[image3]: ../images/promote.png "picture of promotion menu" {#image3}
 
 # Map Markup
 
