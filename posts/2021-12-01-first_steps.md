@@ -14,6 +14,7 @@ do to help make this process more enjoyable for you and them.
 - Play as rifleman until you have the basics down.
 - Listen as much as you can.
 - Experiment with the other kits and vehicles offline in Jensen's Range.
+- Live life as long as you can.
 
 # Proximity
 
@@ -95,3 +96,15 @@ Another great place to experiment is on seeding servers. Seeding servers do have
 restrictions on what you can do while seeding, but if you are just learning
 infantry kits, it's a great way to get low pressure experience using different
 kits.
+
+# Live Long
+
+You are going to get shot a lot, but in Squad you are not dead yet. Unless
+circumstances demand otherwise, wait at least 60 seconds for a medic or team mate
+to revive you. If a medic revives you and he is healing, use your rifle to
+provide cover in case someone walks up on you. Also keep your head down. More
+likely than not you are down in an open area with nothing but being low keeping
+you from getting shot again. Wait until you are no longer seeing things in black
+and white before moving if you can. If you get shot again in the vulnerable
+state, you will die instead of being incapacitated. Try to listen to directions
+your medic gives, you will stand a better chance of keeping your ticket longer.
