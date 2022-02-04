@@ -45,6 +45,13 @@ That doesn't mean you deny it immediately. They may radio you after they try get
 vehicle a few seconds later. My approach is unless we talk about the vehicle request, I
 ignore it. If they bring it up, or I do, then it gets approved.
 
+Here is a picture of a request:
+
+[![vehicle request][vehicle_request]][vehicle_request]
+
+[vehicle_request]: ../images/vehicle_request.png "Picture of vehicle request"
+{#vehicle_request}
+
 # Fireteam Management
 
 Fireteam leads (also know as FTLs) can help you place marks on the map and set
@@ -139,14 +146,68 @@ messages brief but useful.
 
 # Squad Management
 
-## Personnel Management
-## Communicating and Marking Objectives
+Squad leading random people is like herding cats. Good team players will do as
+the squad lead asks even if they disagree with it. If they disagree too much,
+they will just leave the squad and find another one. Some players don't care as
+much about doing what the SL says, and some of the strategies I'm going to
+suggest can help keep them on task.
 
-Unfinished
+Don't be an asshole. Players will very quickly ignore you if you berate them,
+issue an order they disagree with, or you are just being unreasonable. If they
+don't agree with an order, explain your thought process as you are able for why
+you are giving it. This does two things, it shows them you have taken their
+objections into account, and it teaches them a little bit about strategy good or
+bad. I've been with SLs who will tell you to do something and not take into
+account that we are running into problems with doing said something and continue
+to yell at us for not doing it. Don't be that guy. You will lose squad mates
+fast.
+
+Don't tolerate back seat squad leads. Sometimes you will have players who when
+you give an order, openly disagree with it to the point it's undermining you.
+They aren't talking to the other squad leads, they don't handle rally or FOB
+placement. Be polite, but clear that you are SL and not them. A good team player
+will offer suggestions but respect your judgment, and if he strongly disagrees
+will not undermine you but leave the squad. A back seat squad lead will stick
+around to undermine your authority. If you are in a charitable mood, let them
+know if they don't like your squad leading that they can find another squad or
+create one. If this does not do the trick, just kick them from the squad. This
+is not worth putting up with at all if you or your squad want to enjoy the game.
+
+You can kick people from your squad. Unless the server rules say otherwise, you
+can kick people for whatever arbitrary reason. Per not being an asshole we want
+good reasons for this. Some good reasons are as follows: mic spamming squad
+chat, people being unresponsive while playing for 2 or more minutes, people
+being disobedient to orders in a way that's undermining the squad, and whatever
+else is harming the squad's ability to function. Now new people won't know
+better, so try to give some the benefit of the doubt, but if you have explained
+things and they are unresponsive or just not listening, give the boot. Be warned
+some people will take this badly and could team kill you or your squad mates, so
+this is still a last resort measure, but it's better than tolerating bad
+behavior too long.
 
 # Requesting Commander Assets
 
-Unfininshed
+How to play as commander should be covered in a separate post, but sometimes the
+commander may want you to make a request for his assets if he can't get eyes on
+whatever needs to be hit. To make a request you will go into your radial menu
+and select "Request Tactical Support from Commander" [(see
+image)](#command_support) at the 9 o'clock position
+of the menu. When you make this request the commander has 60 seconds to act on it,
+so make sure he's aware of what you want, what you are targeting and any other
+relevant information before putting the request in. The commander will also need
+to be near a HAB to approve the request and call in the requested asset. This
+process could take several minutes depending on what the commander is currently
+doing.
+
+Some of the assets that are available are UAVs, airstrikes, artillery barrages,
+drones, and mortar barrages with the assets varying per faction. If you aren't
+sure of what to call for, feel free to experiment on Jensen's Range with the
+commander role.
+
+[![command support][command_support]][command_support]
+
+[command_support]: ../images/command_support.png "Picture of command support in
+menu" {#command_support}
 
 # FOB Setup
 
